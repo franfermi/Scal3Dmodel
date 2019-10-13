@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="CASA_4" size="7.000000 4.046099" />
+    <ImageTarget name="CASA_3" size="7.000000 4.060498" />
+    <ImageTarget name="fuente" size="7.000000 6.083333" />
+    <ImageTarget name="patron_banco02" size="7.000000 4.309091" />
+    <ImageTarget name="patron_banco01" size="7.000000 4.309091" />
+    <ImageTarget name="PISTA_TENIS" size="10.000000 6.026119" />
+    <ImageTarget name="PISTA_BALONCESTO" size="10.000000 6.063433" />
+    <ImageTarget name="PISICNA_INTERIOR" size="10.000000 6.041276" />
+    <ImageTarget name="PISICNA_EXTERIOR" size="10.000000 6.011236" />
+    <ImageTarget name="CASA_1" size="10.000000 6.086143" />
+    <ImageTarget name="CASA_2" size="10.000000 6.086143" />
+  </Tracking>
+</QCARConfig>

@@ -1,0 +1,165 @@
+# Alias Wavefront MTL File Exported from SketchUp
+# with OBJexporter (c) 2010/2011 TIG
+# Made for 'House_wPorches02.obj'
+
+newmtl Default_Material
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+
+newmtl Color_A01
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+
+newmtl Tile_Ceramic_Natural
+Ka 0.000000 0.000000 0.000000
+Kd 0.741176 0.705882 0.525490
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd House_wPorches02_Textures/Tile_Ceramic_Natural.jpg
+
+newmtl Color_I10
+Ka 0.000000 0.000000 0.000000
+Kd 0.639216 0.639216 0.800000
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+
+newmtl 0053_Ivory
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 0.941176
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+
+newmtl Color_008
+Ka 0.000000 0.000000 0.000000
+Kd 0.117647 0.117647 0.117647
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+
+newmtl Fencing_Diamond_Mesh1
+Ka 0.000000 0.000000 0.000000
+Kd 0.615686 0.607843 0.600000
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd House_wPorches02_Textures/Fencing_Diamond_Mesh1.png
+
+newmtl Fencing_Mesh_Blue1
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd House_wPorches02_Textures/Fencing_Mesh_Blue1.png
+
+newmtl Wood_Bamboo_Light
+Ka 0.000000 0.000000 0.000000
+Kd 0.858824 0.701961 0.470588
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd House_wPorches02_Textures/Wood_Bamboo_Light.jpg
+
+newmtl Metal_Seamed
+Ka 0.000000 0.000000 0.000000
+Kd 0.462745 0.466667 0.450980
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd House_wPorches02_Textures/Metal_Seamed.jpg
+
+newmtl Tile_Border_Floral
+Ka 0.000000 0.000000 0.000000
+Kd 0.705882 0.572549 0.305882
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd House_wPorches02_Textures/Tile_Border_Floral.jpg
+
+newmtl Silver
+Ka 0.000000 0.000000 0.000000
+Kd 0.752941 0.752941 0.752941
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+
+newmtl Stone_Moss3
+Ka 0.000000 0.000000 0.000000
+Kd 0.537255 0.533333 0.505882
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd House_wPorches02_Textures/Stone_Moss3.jpg
+
+newmtl Water_Pool
+Ka 0.000000 0.000000 0.000000
+Kd 0.250980 0.584314 0.654902
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd House_wPorches02_Textures/Water_Pool.jpg
+
+newmtl Color_C25
+Ka 0.000000 0.000000 0.000000
+Kd 0.200000 0.176471 0.156863
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+
+newmtl Safety_Glass
+Ka 0.000000 0.000000 0.000000
+Kd 0.200000 0.200000 0.200000
+Ks 0.000000 0.000000 0.000000
+d 0.800000
+map_Kd House_wPorches02_Textures/Safety_Glass
+
+newmtl Wood_Weave
+Ka 0.000000 0.000000 0.000000
+Kd 0.647059 0.552941 0.364706
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd House_wPorches02_Textures/Wood_Weave.jpg
+
+newmtl Wood_Floor_Dark
+Ka 0.000000 0.000000 0.000000
+Kd 0.600000 0.478431 0.321569
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd House_wPorches02_Textures/Wood_Floor_Dark.jpg
+
+newmtl Roofing_Shingles_GAF_Estates
+Ka 0.000000 0.000000 0.000000
+Kd 0.317647 0.301961 0.290196
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd House_wPorches02_Textures/Roofing_Shingles_GAF_Estates.jpg
+
+newmtl 0135_DarkGray
+Ka 0.000000 0.000000 0.000000
+Kd 0.317647 0.317647 0.317647
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+
+newmtl Cladding_Stucco_White
+Ka 0.000000 0.000000 0.000000
+Kd 0.784314 0.784314 0.784314
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd House_wPorches02_Textures/Cladding_Stucco_White.jpg
+
+newmtl Metal_Aluminum_Anodized1
+Ka 0.000000 0.000000 0.000000
+Kd 0.792157 0.819608 0.858824
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd House_wPorches02_Textures/Metal_Aluminum_Anodized1.jpg
+
+newmtl Brick_Rough_Dark
+Ka 0.000000 0.000000 0.000000
+Kd 0.643137 0.698039 0.682353
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd House_wPorches02_Textures/Brick_Rough_Dark.jpg
+
+newmtl Translucent_Glass_Sky_Reflection
+Ka 0.000000 0.000000 0.000000
+Kd 0.490196 0.541176 0.717647
+Ks 0.000000 0.000000 0.000000
+d 0.520000
+map_Kd House_wPorches02_Textures/Translucent_Glass_Sky_Reflection.jpg
+
+#EOF

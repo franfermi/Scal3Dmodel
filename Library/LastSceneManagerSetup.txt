@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/ScaleModel.unity
+  isLoaded: 1
+  isActive: 1

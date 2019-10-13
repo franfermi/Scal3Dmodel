@@ -1,0 +1,197 @@
+fileFormatVersion: 2
+guid: 29a2dd13054d15141a97f119fc2876be
+timeCreated: 1495718887
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: House_wPorches02_c_Group_2-0053_Ivory
+    100004: House_wPorches02_c_Group_2-0135_DarkGray
+    100006: House_wPorches02_c_Group_2-Brick_Rough_Dark
+    100008: House_wPorches02_c_Group_2-Cladding_Stucco_White
+    100010: House_wPorches02_c_Group_2-Color_008
+    100012: House_wPorches02_c_Group_2-Color_A01
+    100014: House_wPorches02_c_Group_2-Color_C25
+    100016: House_wPorches02_c_Group_2-Color_I10
+    100018: House_wPorches02_c_Group_2-Default_Material
+    100020: House_wPorches02_c_Group_2-Fencing_Diamond_Mesh1
+    100022: House_wPorches02_c_Group_2-Fencing_Mesh_Blue1
+    100024: House_wPorches02_c_Group_2-Metal_Aluminum_Anodized1
+    100026: House_wPorches02_c_Group_2-Metal_Seamed
+    100028: House_wPorches02_c_Group_2-Roofing_Shingles_GAF_Estates
+    100030: House_wPorches02_c_Group_2-Safety_Glass
+    100032: House_wPorches02_c_Group_2-Silver
+    100034: House_wPorches02_c_Group_2-Stone_Moss3
+    100036: House_wPorches02_c_Group_2-Tile_Border_Floral
+    100038: House_wPorches02_c_Group_2-Tile_Ceramic_Natural
+    100040: House_wPorches02_c_Group_2-Translucent_Glass_Sky_Reflection
+    100042: House_wPorches02_c_Group_2-Water_Pool
+    100044: House_wPorches02_c_Group_2-Wood_Bamboo_Light
+    100046: House_wPorches02_c_Group_2-Wood_Floor_Dark
+    100048: House_wPorches02_c_Group_2-Wood_Weave
+    400000: //RootNode
+    400002: House_wPorches02_c_Group_2-0053_Ivory
+    400004: House_wPorches02_c_Group_2-0135_DarkGray
+    400006: House_wPorches02_c_Group_2-Brick_Rough_Dark
+    400008: House_wPorches02_c_Group_2-Cladding_Stucco_White
+    400010: House_wPorches02_c_Group_2-Color_008
+    400012: House_wPorches02_c_Group_2-Color_A01
+    400014: House_wPorches02_c_Group_2-Color_C25
+    400016: House_wPorches02_c_Group_2-Color_I10
+    400018: House_wPorches02_c_Group_2-Default_Material
+    400020: House_wPorches02_c_Group_2-Fencing_Diamond_Mesh1
+    400022: House_wPorches02_c_Group_2-Fencing_Mesh_Blue1
+    400024: House_wPorches02_c_Group_2-Metal_Aluminum_Anodized1
+    400026: House_wPorches02_c_Group_2-Metal_Seamed
+    400028: House_wPorches02_c_Group_2-Roofing_Shingles_GAF_Estates
+    400030: House_wPorches02_c_Group_2-Safety_Glass
+    400032: House_wPorches02_c_Group_2-Silver
+    400034: House_wPorches02_c_Group_2-Stone_Moss3
+    400036: House_wPorches02_c_Group_2-Tile_Border_Floral
+    400038: House_wPorches02_c_Group_2-Tile_Ceramic_Natural
+    400040: House_wPorches02_c_Group_2-Translucent_Glass_Sky_Reflection
+    400042: House_wPorches02_c_Group_2-Water_Pool
+    400044: House_wPorches02_c_Group_2-Wood_Bamboo_Light
+    400046: House_wPorches02_c_Group_2-Wood_Floor_Dark
+    400048: House_wPorches02_c_Group_2-Wood_Weave
+    2300000: House_wPorches02_c_Group_2-0053_Ivory
+    2300002: House_wPorches02_c_Group_2-0135_DarkGray
+    2300004: House_wPorches02_c_Group_2-Brick_Rough_Dark
+    2300006: House_wPorches02_c_Group_2-Cladding_Stucco_White
+    2300008: House_wPorches02_c_Group_2-Color_008
+    2300010: House_wPorches02_c_Group_2-Color_A01
+    2300012: House_wPorches02_c_Group_2-Color_C25
+    2300014: House_wPorches02_c_Group_2-Color_I10
+    2300016: House_wPorches02_c_Group_2-Default_Material
+    2300018: House_wPorches02_c_Group_2-Fencing_Diamond_Mesh1
+    2300020: House_wPorches02_c_Group_2-Fencing_Mesh_Blue1
+    2300022: House_wPorches02_c_Group_2-Metal_Aluminum_Anodized1
+    2300024: House_wPorches02_c_Group_2-Metal_Seamed
+    2300026: House_wPorches02_c_Group_2-Roofing_Shingles_GAF_Estates
+    2300028: House_wPorches02_c_Group_2-Safety_Glass
+    2300030: House_wPorches02_c_Group_2-Silver
+    2300032: House_wPorches02_c_Group_2-Stone_Moss3
+    2300034: House_wPorches02_c_Group_2-Tile_Border_Floral
+    2300036: House_wPorches02_c_Group_2-Tile_Ceramic_Natural
+    2300038: House_wPorches02_c_Group_2-Translucent_Glass_Sky_Reflection
+    2300040: House_wPorches02_c_Group_2-Water_Pool
+    2300042: House_wPorches02_c_Group_2-Wood_Bamboo_Light
+    2300044: House_wPorches02_c_Group_2-Wood_Floor_Dark
+    2300046: House_wPorches02_c_Group_2-Wood_Weave
+    3300000: House_wPorches02_c_Group_2-0053_Ivory
+    3300002: House_wPorches02_c_Group_2-0135_DarkGray
+    3300004: House_wPorches02_c_Group_2-Brick_Rough_Dark
+    3300006: House_wPorches02_c_Group_2-Cladding_Stucco_White
+    3300008: House_wPorches02_c_Group_2-Color_008
+    3300010: House_wPorches02_c_Group_2-Color_A01
+    3300012: House_wPorches02_c_Group_2-Color_C25
+    3300014: House_wPorches02_c_Group_2-Color_I10
+    3300016: House_wPorches02_c_Group_2-Default_Material
+    3300018: House_wPorches02_c_Group_2-Fencing_Diamond_Mesh1
+    3300020: House_wPorches02_c_Group_2-Fencing_Mesh_Blue1
+    3300022: House_wPorches02_c_Group_2-Metal_Aluminum_Anodized1
+    3300024: House_wPorches02_c_Group_2-Metal_Seamed
+    3300026: House_wPorches02_c_Group_2-Roofing_Shingles_GAF_Estates
+    3300028: House_wPorches02_c_Group_2-Safety_Glass
+    3300030: House_wPorches02_c_Group_2-Silver
+    3300032: House_wPorches02_c_Group_2-Stone_Moss3
+    3300034: House_wPorches02_c_Group_2-Tile_Border_Floral
+    3300036: House_wPorches02_c_Group_2-Tile_Ceramic_Natural
+    3300038: House_wPorches02_c_Group_2-Translucent_Glass_Sky_Reflection
+    3300040: House_wPorches02_c_Group_2-Water_Pool
+    3300042: House_wPorches02_c_Group_2-Wood_Bamboo_Light
+    3300044: House_wPorches02_c_Group_2-Wood_Floor_Dark
+    3300046: House_wPorches02_c_Group_2-Wood_Weave
+    4300000: House_wPorches02_c_Group_2-0053_Ivory
+    4300002: House_wPorches02_c_Group_2-0135_DarkGray
+    4300004: House_wPorches02_c_Group_2-Brick_Rough_Dark
+    4300006: House_wPorches02_c_Group_2-Cladding_Stucco_White
+    4300008: House_wPorches02_c_Group_2-Color_008
+    4300010: House_wPorches02_c_Group_2-Color_A01
+    4300012: House_wPorches02_c_Group_2-Color_C25
+    4300014: House_wPorches02_c_Group_2-Color_I10
+    4300016: House_wPorches02_c_Group_2-Default_Material
+    4300018: House_wPorches02_c_Group_2-Fencing_Diamond_Mesh1
+    4300020: House_wPorches02_c_Group_2-Fencing_Mesh_Blue1
+    4300022: House_wPorches02_c_Group_2-Metal_Aluminum_Anodized1
+    4300024: House_wPorches02_c_Group_2-Metal_Seamed
+    4300026: House_wPorches02_c_Group_2-Roofing_Shingles_GAF_Estates
+    4300028: House_wPorches02_c_Group_2-Safety_Glass
+    4300030: House_wPorches02_c_Group_2-Silver
+    4300032: House_wPorches02_c_Group_2-Stone_Moss3
+    4300034: House_wPorches02_c_Group_2-Tile_Border_Floral
+    4300036: House_wPorches02_c_Group_2-Tile_Ceramic_Natural
+    4300038: House_wPorches02_c_Group_2-Translucent_Glass_Sky_Reflection
+    4300040: House_wPorches02_c_Group_2-Water_Pool
+    4300042: House_wPorches02_c_Group_2-Wood_Bamboo_Light
+    4300044: House_wPorches02_c_Group_2-Wood_Floor_Dark
+    4300046: House_wPorches02_c_Group_2-Wood_Weave
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,66 @@
+newmtl Backboard
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd SBC_Backboard_CLR.jpg
+bump -bm 0.03 SBC_Backboard_BMP.jpg 
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl Chain_Net
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl Fence
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd SBC_Fence_CLR.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 18.00
+newmtl Floor
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd SBC_Floor_CLR.jpg
+bump -bm 0.005 SBC_Floor_BMP.jpg 
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 18.00
+newmtl Metal_1
+illum 4
+Kd 0.17 0.17 0.17
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl Metal_2
+illum 4
+Kd 0.74 0.74 0.74
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl Metal_Red
+illum 4
+Kd 0.76 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl Wall
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd SBC_wall_CLR.jpg
+bump -bm 0.02 SBC_wall_BMP.jpg 
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 18.00
